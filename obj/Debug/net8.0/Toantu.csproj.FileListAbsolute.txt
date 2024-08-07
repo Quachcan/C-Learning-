@@ -1,0 +1,14 @@
+/Applications/Document /Learning Unity/Toantu/bin/Debug/net8.0/Toantu
+/Applications/Document /Learning Unity/Toantu/bin/Debug/net8.0/Toantu.deps.json
+/Applications/Document /Learning Unity/Toantu/bin/Debug/net8.0/Toantu.runtimeconfig.json
+/Applications/Document /Learning Unity/Toantu/bin/Debug/net8.0/Toantu.dll
+/Applications/Document /Learning Unity/Toantu/bin/Debug/net8.0/Toantu.pdb
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.AssemblyInfo.cs
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.dll
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/refint/Toantu.dll
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.pdb
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/Toantu.genruntimeconfig.cache
+/Applications/Document /Learning Unity/Toantu/obj/Debug/net8.0/ref/Toantu.dll
